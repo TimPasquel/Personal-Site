@@ -1,4 +1,53 @@
+.overhead_nav {
+	margin: 0 auto;
+	text-align: center;
+	background-color:black;
+}
+
+.overhead_nav ul {
+	list-style: none;
+	margin 0; auto;
+}
+
+.overhead_nav ul li {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.overhead_nav ul li a {
+	display:block;
+	margin: 0 auto;
+	padding:25px 150px;
+	color:white;
+	font-size:15px;
+}
+.CWSnav {
+	margin: 0 auto;
+	text-align: center;
+	background-color:black;
+}
+
+.CWSnav ul {
+	list-style: none;
+	margin 0; auto;
+}
+
+.CWSnav ul li {
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.CWSnav ul li a {
+	display:block;
+	margin: 0 auto;
+	padding:25px 150px;
+	color:white;
+	font-size:15px;
+}
+
 ul {
+	text-align: center;
+   display: inline-block;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -15,10 +64,49 @@ li a{
 	padding: 12px 14px;
 }
 h1 {
+	font-size:55px;
 	text-align: center;
 	background-color: black;
 	color: white;
 }
+h2 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
 body {
 	background-color: grey;
+}
+thead th {
+   text-align: center;
+}
+tbody, td {
+	text-align: center;
+   border: 2px solid;
+   padding: 0.5rem;
+   width:25%;
+}
+tr:nth-child(even) {
+   background-color: black;
+	color:white;
+	
+}
+.CWSVideoTitle {
+	background-color: black;
+	color:white;
+}
+.iframe-container {
+	display: flex;
+   justify-content: center;
+	border: 1px solid black;
+}
+.centerimages {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+.bottom-three {
+   margin-bottom: 3cm;
 }
