@@ -42,10 +42,12 @@
 
    <div class="CWSVideoTitle">	<h2>Youtube and Instagram Links:</h2> </div>
 
-	<div class="hyperlinks">
-	<p><a href="https://www.instagram.com/capture_white_smoke/"</a>Instagram (@capture_white_smoke)</p>
-	<p><a href="https://www.youtube.com/channel/UCa_SyInhAFLrDdE9AIFghmg"</a>Youtube (Capture White Smoke)</p>
-	</div>	
+	<div class="CWSLinkBox">
+	<ul>
+		<li><a href="https://www.instagram.com/capture_white_smoke/"</a>Instagram (@capture_white_smoke)</li>
+		<li><a href="https://www.youtube.com/channel/UCa_SyInhAFLrDdE9AIFghmg"</a>Youtube (Capture White Smoke)</li>
+	</ul>
+	</div>
 
 	<div class="bottom-three">
 		<p></p>

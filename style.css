@@ -1,8 +1,9 @@
 /* Tim Pasquel Resume */
 
 .Tim_Pasquel_Body {
-	background: rgb(148,148,148);
-	background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(255,255,255,1) 50%, rgba(148,148,148,1) 100%); 
+	background: lightgrey;
+	/* background: rgb(148,148,148);
+	background: linear-gradient(90deg, rgba(148,148,148,1) 0%, rgba(255,255,255,1) 50%, rgba(148,148,148,1) 100%); */
 }
 
 /*  Email Link  */
@@ -30,6 +31,9 @@
 	background-color:black;
 	list-style: none;
 	padding-left: 0px;
+	margin-left:-10px;
+	margin-right:-10px;
+	margin-bottom:-16px;
 }
 
 .overhead_nav  li {
@@ -56,6 +60,8 @@
 	background-color: black;
 	list-style: none;
 	padding-left: 0px;
+	margin-left:-10px;
+	margin-right:-10px;
 }
 
 .CWSnav li {
@@ -75,6 +81,38 @@
 	color:black;
 }
 
+/* CWS Options */
+
+.CWSOptions ul {
+	text-align: center;
+	list-style-type:none;
+}
+
+/* CWS About Box */
+
+.CWSAboutBox {
+	margin-left: auto;
+   margin-right: auto;
+   display: table;
+}
+
+.CWSAboutBox ul {
+	text-align:center;
+	display:inline-block;
+	list-style-type: none;
+	width:90%;
+	border: 2px solid black;
+	border-radius: 25px;
+	padding:20px;
+	background-color:black;
+	color:white;
+	margin:5px;
+}
+
+.CWSAboutBox a {
+	color:white;
+}
+
 /* CWS Pricing Lists */
 
 .CWSLists {
@@ -89,34 +127,91 @@
 	list-style-type: default;
 	width:90%;
 	border: 2px solid black;
+	border-radius: 25px;
+	padding:20px;
+	padding-left:40px;
+	background-color:black;
+	color:white;
 }
 
-.photolist {
+/* Hyperlink Box */
+
+.CWSLinkBox {
+	margin-left: auto;
+   margin-right: auto;
 }
 
-.videolist {
-}	
+.CWSLinkBox ul {
+	text-align:center;
+	display:center;
+	list-style-type: none;
+	padding:20px;
+	background-color:black;
+	margin-left:-10px;
+	margin-right:-10px;
+}
+
+.CWSLinkBox a {
+	color:white;
+	background-color:black;
+}
 
 /* General body properties */
 
 h1 {
 	font-family: "Lucida Handwriting", "Cursive";
 	font-size:55px;
-	text-align: center;
+	text-align: center; top;
+	padding:30px;
 	background-color: black;
 	color: white;
+	margin-top:-10px;
+	margin-bottom:-20px;
+	margin-left:-10px;
+	margin-right:-10px;
 }
 
 h2 {
+	padding:15px;
 	text-align: center;
 }
 p {
 	text-align: center;
 }
+
+body {
+	font-family: "Monaco", "Monospace";
+	background: lightgrey;
+	/* background: rgb(54,54,54);
+	background: linear-gradient(90deg, rgba(54,54,54,1) 0%, rgba(187,187,187,1) 50%, rgba(54,54,54,1) 100%); */
+
+}
+
+/*
 body {
 	font-family: "Monaco", "Monospace";
 	background: rgb(130,130,149);
 	background: radial-gradient(circle, rgba(130,130,149,1) 0%, rgba(102,101,134,1) 64%, rgba(11,15,15,1) 100%); 
+}
+*/
+
+/* CWSTable Table properties */
+
+.CWSTable td {
+	text-align:center;
+	vertical-align:top;
+   padding: 0.5rem;
+   width:25%;
+	border: none;
+}
+/* TimTable Table properties */
+
+.TimTable td{
+	text-align: center;
+   padding: 0.5rem;
+   width:25%;
+   background-color: black;
+	color:white;
 }
 
 /* General Table properties */
@@ -138,6 +233,8 @@ tr:nth-child(even) {
 .CWSVideoTitle {
 	background-color: black;
 	color:white;
+	margin-left:-10px;
+	margin-right:-10px;
 }
 
 /* Images and Video */
@@ -145,13 +242,13 @@ tr:nth-child(even) {
 .iframe-container {
 	display: flex;
    justify-content: center;
-	border: 2px solid black;
 }
 .centerimages {
    display: block;
    margin-left: auto;
    margin-right: auto;
    width: 50%;
+	border-radius: 25px;
 }
 
 /* Web Page Alignment */

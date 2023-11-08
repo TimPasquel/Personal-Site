@@ -7,24 +7,58 @@
 <body>
 	<h1>Capture White Smoke</h1>
 		<?php include 'nav.html' ?>
+
 	<h2>Welcome!</h2>
-		<img class='centerimages' border="3px" src="images/CWSHeadshot.jpeg" alt="Headshot" style='width:450px;height:550px;'>
+		<img class='centerimages' border="5px" src="images/CWSHeadshot.jpeg" alt="Headshot" style='width:450px;height:550px;'>
+
 	<h2>About:</h2>
-		<p>Hello! Photographer who specializes in automotive culture, but love all subjects.</p>
-		<p>Feel free to DM for inquires, questions, bookings, or image copies!</p>
+		<div class="CWSOptions">
+		<ul>
+			<li>Hello! Photographer who specializes in automotive culture, but love all subjects.</li>
+			<li>Feel free to DM for inquires, questions, bookings, or image copies!</li>
+		</ul>
+		</div>
 
 		<?php include 'CWSnav.html' ?>
 	<h2>Contact Me:</h2>
-		<p>Email: <a href="mailto:capture.white.smoke@gmail.com">capture.white.smoke@gmail.com</a></p>
-		<p>Instagram: <a href="https://www.instagram.com/capture_white_smoke/">@capture_white_smoke</a></p>
-		<p>Please feel free to email me about any questions, comments, or concerns. I would love to hear from you!
+		<div class="CWSAboutBox">
+		<ul>
+			<li>Email: <a href="mailto:capture.white.smoke@gmail.com?subject=CWS Inquiry &body=Hello!">capture.white.smoke@gmail.com</a></li>
+			<li>Instagram: <a href="https://www.instagram.com/capture_white_smoke/">@capture_white_smoke</a></li>
+			<li>Please feel free to email me about any questions, comments, or concerns. I would love to hear from you!</li>
+		</ul>
+		</div>
 
-	<div class="photolist">
+
+	<div class="CWSTable">
+	<table>
+	<tr>
+	<td>
 	<h2>Photo Options:</h2>
-		<p>What I have posted above and in the <a href="CWSPhotos.php">Photo Gallery</a> is an example of how I edit my photos.</p>
-		<p>However, I can change the styles based on the customers interests</p>
-		<p>(example: warm, cool, high contrast, black white, etc.) if needed</p>
+		<div class="CWSOptions">
+		<ul>
+			<li>What I have posted above and in the <a href="CWSPhotos.php">Photo Gallery</a> is an example of how I edit my photos.</li>
+			<li>However, I can change the styles based on the customers interests (example: warm, cool,</li>
+			<li>high contrast, black white, etc.) if needed. Furthermore, for the posts I make, I edit out the license plates</li>
+			<li>the photos I will send will have them included unless otherwise noted<li>
+		</ul>
+		</div>
+	</td>
 
+	<td>
+	<h2>Video Options:</h2>
+		<div class="CWSOptions">
+		<ul>
+			<li>What I have posted in the <a href="CWSVideos.php">Video Gallery</a> is an example of how I edit my videos.</li>
+			<li>A project can also be set up and scheduled before an event to ensure proper footage is taken.</li>
+			<li>Individual projects outside of events can also be pitched to me via email</li>
+		</ul>
+		</div>
+	</td>
+	</tr>
+
+	<tr>
+	<td>
 	<h2>Photo Pricing Options:</h2>
 		<div class="CWSLists">
 		<ul>
@@ -35,14 +69,9 @@
 			<li>If you gave or give me a ride along, negotiation on pricing can be made</li>
 		</ul>
 		</div>
-	</div>
+	</td>
 
-	<div class="videolist">		
-	<h2>Video Options:</h2>
-		<p>What I have posted in the <a href="CWSVideos.php">Video Gallery</a> is an example of how I edit my videos.</p>
-		<p>A project can also be set up and scheduled before an event to ensure proper footage is taken.</p>
-		<p>Individual projects outside of events can also be pitched to me via email</p>
-
+	<td>
 	<h2>Video Pricing Options:</h2>
 		<div class="CWSLists">
 		<ul>
@@ -53,14 +82,19 @@
 			<li>If you gave or give me a ride along, negotiation on pricing can be made</li>
 		</ul>
 		</div>
+	</td>
+	</tr>
+	</table>
 	</div>
-
+	
 	<h2>Company, Organization, and Location Links:</h2>
-		<div class="hyperlinks">
-		<p><a href="https://www.readysetdrift.com/"</a>ReadySetDrift!</p>
-		<p><a href='https://www.poconoraceway.com/'</a>Pocono Raceway</p>
-		<p><a href='https://www.formulad.com/'</a>Formula Drift</p>
-		<p><a href='https://www.etownracewaypark.com/'</a>Englishtown Raceway</p>
+		<div class="CWSLinkBox">
+		<ul>
+			<li><a href="https://www.readysetdrift.com/"</a>ReadySetDrift!</li>
+			<li><a href='https://www.poconoraceway.com/'</a>Pocono Raceway</li>
+			<li><a href='https://www.formulad.com/'</a>Formula Drift</li>
+			<li><a href='https://www.etownracewaypark.com/'</a>Englishtown Raceway</li>
+		</ul>
 		</div>
 
 		<div class="bottom-three">
