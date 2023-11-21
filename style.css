@@ -31,9 +31,11 @@
 	background-color:black;
 	list-style: none;
 	padding-left: 0px;
-	margin-left:-10px;
-	margin-right:-10px;
+	margin-left:-20px;
+	margin-right:-20px;
 	margin-bottom:-16px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .overhead_nav  li {
@@ -42,10 +44,12 @@
 
 .overhead_nav ul li a {
 	margin: 0 auto;
-	padding:25px 150px;
+	padding:25px 75px;
 	color:white;
 	font-size:15px;
 	display:block;
+	border: 2px solid white;
+	border-radius: 25px;
 }
 
 .overhead_nav a:hover {
@@ -60,8 +64,10 @@
 	background-color: black;
 	list-style: none;
 	padding-left: 0px;
-	margin-left:-10px;
-	margin-right:-10px;
+	margin-left:-20px;
+	margin-right:-20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .CWSnav li {
@@ -70,10 +76,12 @@
 
 .CWSnav ul li a {
 	margin: 0 auto;
-	padding:25px 150px;
+	padding:25px 85px;
 	color:white;
 	font-size:15px;
 	display:block;
+	border: 2px solid white;
+	border-radius: 25px;
 }
 
 .CWSnav a:hover {
@@ -113,6 +121,27 @@
 	color:white;
 }
 
+/* CWS Independent Lists (No Background) */
+
+.CWSIndependentLists {
+	margin-left: auto;
+   margin-right: auto;
+   display: table;
+}
+
+.CWSIndependentLists ul {
+	text-align:left;
+	display:inline-block;
+	list-style-type: default;
+	width:90%;
+	border: 2px solid black;
+	border-radius: 25px;
+	padding:20px;
+	padding-left:40px;
+	background-color:black;
+	color:white;
+}
+
 /* CWS Pricing Lists */
 
 .CWSLists {
@@ -125,13 +154,29 @@
 	text-align:left;
 	display:inline-block;
 	list-style-type: default;
-	width:90%;
-	border: 2px solid black;
-	border-radius: 25px;
-	padding:20px;
 	padding-left:40px;
 	background-color:black;
 	color:white;
+}
+
+/* Back to Top Button */
+.BackToTop {
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+	margin-top: 20px;
+}
+
+.BackToTop input {
+	background-color: black;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+}
+
+.BackToTop input:hover {
+	background-color: white;
+	color:black;
 }
 
 /* Hyperlink Box */
@@ -156,6 +201,22 @@
 	background-color:black;
 }
 
+
+/* Index h1 */
+
+.IndexTitle h1 {
+	font-family: "Lucida Handwriting", "Cursive";
+	font-size:55px;
+	text-align: center; top;
+	padding:30px;
+	background-color: black;
+	color: white;
+	margin-top:-10px;
+	margin-bottom:-20px;
+	margin-left:-100px;    /*was -20 */
+	margin-right:-100px;		/*was -20 */
+}
+
 /* General body properties */
 
 h1 {
@@ -167,8 +228,8 @@ h1 {
 	color: white;
 	margin-top:-10px;
 	margin-bottom:-20px;
-	margin-left:-10px;
-	margin-right:-10px;
+	margin-left:-20px;    /*was -20 */
+	margin-right:-20px;		/*was -20 */
 }
 
 h2 {
@@ -193,6 +254,75 @@ body {
 	background: rgb(130,130,149);
 	background: radial-gradient(circle, rgba(130,130,149,1) 0%, rgba(102,101,134,1) 64%, rgba(11,15,15,1) 100%); 
 }
+*/
+
+/* CWSPhotoTable Table properties */
+
+.CWSPhotoTable table {
+	border-radius: 25px;
+	background-color:black;
+}
+
+.CWSPhotoTable tr {
+	border-radius: 25px;
+	width:840px;
+}
+
+.CWSPhotoTable td {
+	border-radius: 25px;
+	vertical-align:center;
+	border-color: black;
+	border-radius: 25px;
+}
+
+.CWSPhotoSmallImage img {
+   margin-left: auto;
+   margin-right: auto;
+	border-radius: 25px;
+	height:360px;
+	width:640px;
+}
+
+/* Index Table properties */
+
+.IndexTable table {
+ 	margin-left: auto;
+  	margin-right: auto;
+	border: none;
+}
+
+.IndexTable td {
+	text-align:center;
+	vertical-align:top;
+	width:250px;
+	height:500px;
+	border: none;
+}
+
+/*		Old Index Table, Character selection style
+
+.IndexTable table {
+	border-radius: 25px;
+ 	margin-left: auto;
+  	margin-right: auto;
+	background-color:black
+}
+.IndexTable td {
+	border-radius: 25px;
+	text-align:center;
+	vertical-align:center;
+	height:750px;
+	width:500px;
+   padding: 0.5rem;
+	color:white:
+   border: 2px solid white;
+}
+
+.IndexTable td:hover {
+	background-color:white;
+	color:white;
+}
+
 */
 
 /* CWSTable Table properties */

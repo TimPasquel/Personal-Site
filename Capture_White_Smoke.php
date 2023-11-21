@@ -20,6 +20,7 @@
 		</div>
 
 		<?php include 'CWSnav.html' ?>
+	
 	<h2>Contact Me:</h2>
 		<div class="CWSAboutBox">
 		<ul>

@@ -22,7 +22,7 @@
 	<tr>
 	<td>
 	<h2>Camera Equipment:</h2>
-		<div class="CWSLists">
+		<div class="CWSIndependentLists">
 		<ul>
 			<li>Camera Body: Canon Rebel T7/EOS 2000D</li>
 			<li>Lens 1: Canon 18-55mm</li>
@@ -37,7 +37,7 @@
 
 	<td>
 	<h2>Software:</h2>
-		<div class="CWSLists">
+		<div class="CWSIndependentLists">
 		<ul>
 			<li>Editing Photos: RawTherape 5.9</li>
 			<li>Editing Photos: Kritia 5.0.2</li>
@@ -50,7 +50,7 @@
 	</div>	
 
 	<h2>Other Equipment:</h2>
-		<div class="CWSLists">
+		<div class="CWSIndependentLists">
 		<ul>
 			<li>Helmet: Racequip Helmet</li>
 		</ul>

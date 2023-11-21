@@ -11,12 +11,31 @@
 	<div class="CWSnav">
 	<nav>
 		<ul>
-			<li><a href="Capture_White_Smoke.php">&larr;Back</a></li>
+			<li><a href="CWSPhotos.php">&larr;Back</a></li>
 		</ul>
 	</nav>
 	</div>
 
 	<?php include 'CWSPhotosNav.html' ?>
+
+	<?php
+		$dirname = "images/CWSPhotos/";
+		$images = glob($dirname."*.jpg");
+
+		echo '<div class="CWSPhotoTable">';
+		echo '<table>';
+		foreach($images as $image) {
+			echo '<tr>';
+			echo '<td>';
+			echo '<div class="CWSPhotoSmallImage">';
+   		echo '<img src="'.$image.'">';
+			echo '</div>';
+			echo '</td>';
+			echo '</tr>'	;
+		}
+		echo '</table>';
+		echo '</div>';
+	?>
 	
 	<p>Place where a photo directory will be placed</p>
 	
@@ -34,5 +53,6 @@
 		<li><a href="https://www.youtube.com/channel/UCa_SyInhAFLrDdE9AIFghmg"</a>Youtube (Capture White Smoke)</li>
 	</ul>
 	</div>
+
 </body>
 </html>
