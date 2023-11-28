@@ -145,7 +145,7 @@
 /* CWS Pricing Lists */
 
 .CWSLists {
-	margin-left: auto;
+   margin-left: auto;
    margin-right: auto;
    display: table;
 }
@@ -328,20 +328,64 @@ body {
 /* CWSTable Table properties */
 
 .CWSTable td {
-	text-align:center;
-	vertical-align:top;
+   text-align:center;
+   vertical-align:top;
    padding: 0.5rem;
    width:25%;
-	border: none;
+   border: none;
 }
+
 /* TimTable Table properties */
 
 .TimTable td{
-	text-align: center;
+   text-align: center;
    padding: 0.5rem;
    width:25%;
    background-color: black;
-	color:white;
+   color:white;
+}
+
+/* TimEXP Table properties */
+
+.TimEXP table {
+   margin-left: 15%;
+   margin-right: 15%;
+   border: none;
+   background-color: none;
+   border-radius: 25px;
+}
+
+.TimEXP td{
+   text-align: center;
+   padding: 0.5rem;
+   width:25%;
+   color:white;
+   border: none;
+   background-color: black;
+}
+
+.TimEXP tr:nth-child(even) {
+   background-color: lightgrey;
+   border: 2px solid;
+   border-radius: 25px;
+}
+
+/* TimLists table properties */
+
+.TimLists {
+   margin-left: 15%;
+   margin-right: 15%;
+   display: table;
+   border-radius: 25px;
+}
+
+.TimLists ul {
+   text-align:left;
+   display:inline-block;
+   list-style-type: default;
+   padding-left:40px;
+   background-color:black;
+   color:white;
 }
 
 /* General Table properties */
@@ -355,11 +399,13 @@ tbody, td {
    padding: 0.5rem;
    width:25%;
 }
+
 tr:nth-child(even) {
    background-color: black;
 	color:white;
 	
 }
+
 .CWSVideoTitle {
 	background-color: black;
 	color:white;

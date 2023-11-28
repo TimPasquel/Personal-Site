@@ -87,7 +87,17 @@
 	</tr>
 	</table>
 	</div>
-	
+
+	<h2>Individual 3 x 3 in Prints:</h2>
+		<div class="CWSAboutBox">
+		<ul>
+			<li>I also make 3 x 3 in print outs of photos! Please email or DM me using the links below to contact me about them!</li>
+			<li>Email: <a href="mailto:capture.white.smoke@gmail.com?subject=CWS Inquiry &body=Hello!">capture.white.smoke@gmail.com</a></li>
+			<li>Instagram: <a href="https://www.instagram.com/capture_white_smoke/">@capture_white_smoke</a></li>
+			<li>Pricing Options: </li>
+		</ul>
+		</div>
+
 	<h2>Company, Organization, and Location Links:</h2>
 		<div class="CWSLinkBox">
 		<ul>

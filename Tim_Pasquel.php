@@ -21,7 +21,8 @@
 		</div>
 
 	<h2>Work:</h2>
-		<table class='center'>
+		<div class='TimEXP'>
+		<table>
 			<tr>
 				<td>Title</td>
 				<td>Description</td>
@@ -49,11 +50,16 @@ assistance if needed.</td>
 				<td>June 2018 - July 2018</td>
 			</tr>
 		</table>
-		
+		</div>
+
+	<br />
+	<br /> <!--3 lines empty space -->
+	<br />
+
 	<table class='TimTable'>
 	<tr><td>
 	<h2>Computer Languages:</h2>
-		<div class="CWSLists">
+		<div class="TimLists">
 		<ul>
 			<li>Java</li>
 			<li>C++</li>
@@ -69,7 +75,7 @@ assistance if needed.</td>
 
 	<td>
 	<h2>Software Applications:</h2>
-		<div class="CWSLists">
+		<div class="TimLists">
 		<ul>
 			<li>Unix</li>
 			<li>Windows</li>
@@ -86,7 +92,7 @@ assistance if needed.</td>
 
 	<tr><td>
 	<h2>Tools/Skills:</h2>
-		<div class="CWSLists">
+		<div class="TimLists">
 		<ul>
 			<li>Video editing and processing</li>
 			<li>General comptuer construction and maintenance</li>
@@ -102,7 +108,7 @@ assistance if needed.</td>
 
 	<td>
 	<h2>Organizations:</h2>
-		<div class="CWSLists">
+		<div class="TimLists">
 		<ul>
 			<li>Kutztown Technology Association (KTA): 2021-Present</li>
 			<li>Kutztown University Honors Program: 2021-Present</li>
@@ -127,7 +133,7 @@ assistance if needed.</td>
 		<div class="CWSLinkBox">
 		<ul>
 			<li><a href="https://www.aidanlapenta.com"</a>Aidan LaPenta</li>
-			<li><a href="http://karenpasquel.weebly.com/"</a>Karen Pasquel (Weebly = Bad)</li>
+			<li><a href="http://karenpasquel.weebly.com/"</a>Karen Pasquel</li>
 		</ul>
 		</div>
 

@@ -16,10 +16,28 @@
 	</nav>
 	</div>
 
+	<br /> <!--1 lines empty space -->
+
 	<?php include 'CWSPhotosNav.html' ?>
 	
-	<p>Place where a photo directory will be placed</p>
-	
+	<p>Please Select a Year Above to See Photos</p>
+
+	<br />
+	<br /> <!--3 lines empty space -->
+	<br />
+
+	<br />
+	<br /> <!--3 lines empty space -->
+	<br />
+
+	<br />
+	<br /> <!--3 lines empty space -->
+	<br />
+
+	<br />
+	<br /> <!--3 lines empty space -->
+	<br />
+
 	<div class="BackToTop">
 		<form>
  			<input type="BUTTON" value="Back To Top of Page" onclick="window.location.href='#top'">

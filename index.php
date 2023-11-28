@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Tim Pasquel Home</title>
+	<title>Welcome!</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
@@ -38,8 +38,7 @@
 	</div>
 	--!>
 
-	<p>Please use the navigation bar above to reach either my personal site or my professional photography site</p>
- 	<p>!!!PLEASE NOTE: Both sites are still under construction and also need to be migrated to an external server!!!
+	<p>Please use the image buttons above to reach either my personal site or my professional photography site</p>
 	<p>Site Last Updated: Nov 2023</p>
 </body>
 </html>
