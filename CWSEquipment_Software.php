@@ -16,6 +16,12 @@
 	</nav>
 	</div>
 
+	<br />
+	<br />
+	<br />
+
+
+	<img class='centerimages' border="5px" src="images/CWSEquipment.jpeg" alt="Equipment" style='width:550px;height:450px;'>
 
 	<div class="CWSTable">
 	<table>
@@ -39,9 +45,9 @@
 	<h2>Software:</h2>
 		<div class="CWSIndependentLists">
 		<ul>
-			<li>Editing Photos: RawTherape 5.9</li>
-			<li>Editing Photos: Kritia 5.0.2</li>
-			<li>Editing Video: Kdenlive 23.08.1</li>
+			<li>Editing Photos: <a href="https://rawtherapee.com">RawTherape 5.9</a></li>
+			<li>Editing Photos: <a href="https://krita.org">Kritia 5.0.2</a></li>
+			<li>Editing Video: <a href="https://kdenlive.org/en/">Kdenlive 23.08.1</a></li>
 		</ul>
 		</div>
 	</td>
@@ -52,7 +58,7 @@
 	<h2>Other Equipment:</h2>
 		<div class="CWSIndependentLists">
 		<ul>
-			<li>Helmet: Racequip Helmet</li>
+			<li>Helmet: <a href="https://www.summitracing.com/search/part-type/helmets">Racequip Helmet</a></li>
 		</ul>
 		</div>
 

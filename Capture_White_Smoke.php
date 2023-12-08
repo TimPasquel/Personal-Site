@@ -95,8 +95,38 @@
 			<li>Email: <a href="mailto:capture.white.smoke@gmail.com?subject=CWS Inquiry &body=Hello!">capture.white.smoke@gmail.com</a></li>
 			<li>Instagram: <a href="https://www.instagram.com/capture_white_smoke/">@capture_white_smoke</a></li>
 			<li>Pricing Options: </li>
+			   <div class="CWSLists">
+			   <ul>
+			      <li>$8 for 1 3 x 3 Print (Shipping and handling included)</li>
+			      <li>$20 for 3 3 x 3 Prints (Shipping and handling included)</li>
+			   </ul>
+			   </div>
+
+			<li>Prints will be sent through the United States Postal Service (USPS), delivery time will vary.<li>
+			<li>I am also open to preparing the desired prints before an event that you and I will be at<li>
 		</ul>
 		</div>
+
+	<br />
+	<br />
+
+	<div class="PrintsTable">
+	   <table>
+	      <tr>
+	         <td>
+		     <img class='centerimages' border="5px" src="images/CWSPhotoAd/IMG_7395-1.jpg" alt="AD1" style='width:720px;height:480px;'>
+		 </td>
+	      </tr>
+
+	      <tr>
+		 <td>
+		     <img class='centerimages' border="5px black" src="images/CWSPhotoAd/IMG_7399-1.jpg" alt="AD2" style='width:720px;height:480px;'>
+		</td>
+	     </tr>
+	   </table>
+	</div>
+
+	<?php include 'CWSnav1.html' ?>
 
 	<h2>Company, Organization, and Location Links:</h2>
 		<div class="CWSLinkBox">

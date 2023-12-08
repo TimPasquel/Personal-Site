@@ -29,22 +29,22 @@
 				<td>Time</td>
 			</tr>
 			<tr>
-				<td>Kutztown University Recreation Center Climbing Wall Associate</td>
+				<td><a href="https://www.kutztown.edu/about-ku/administrative-offices/recreational-services/student-recreation-center-services-and-facilities.html">Kutztown University Recreation Center Climbing Wall Associate</a></td>
 				<td>Work with many new and experienced climbing customers. Ensure the safety of both the customers as well as fellow employees on and off the climbing wall. Teach new climbers how to safely climb</td>
 				<td>September 2023 - Present</td>
 			</tr>
 			<tr>
-				<td>Automotive Racing Media Technician at Pocono Raceway</td>
+				<td><a href="https://www.readysetdrift.com">Automotive Racing Media Technician at Pocono Raceway</a></td>
 				<td>Work alongside with amateur race car drivers and drifters at Pocono Raceway. Capture and produce media. Proficient in Raceway safety and etiquette. Media Account: @capture_white_smoke</td>
 				<td>July 2023 - Present</td>
 			</tr>
 			<tr>
-				<td>Grounds Operations/Maintenance at Morningstar Living</td>
+				<td><a href="https://www.morningstarliving.org">Grounds Operations/Maintenance at Morningstar Living</a></td>
 				<td>Maintain the grounds of 124 housing units/52 acres at Heritage Village. Maintain housing units, equipment and appliances as well as taught and trained employees. Experience with using $3,000,000 worth of equipment, tools, and vehicles</td>
 				<td>March 2020 - Present</td>
 			</tr>
 			<tr>
-				<td>Stem Camp Counselor for Camp Invention</td>
+				<td><a href="https://www.invent.org/programs/camp-invention">Stem Camp Counselor for Camp Invention</a></td>
 				<td>Leader of student groups; responsible for the supervision and assistance of student groups, their classes, and offering support to teachers. Enhanced activity strategies to help students with different ability levels engage in activities. Supervised participants to spot difficulties and provide aid, stopping activities and offering medical
 assistance if needed.</td>
 				<td>June 2018 - July 2018</td>
@@ -121,19 +121,25 @@ assistance if needed.</td>
 	</td></tr>
 	</table>
 	
+	<?php include 'TimNav.html' ?>
+
 	<h2>Personal External Links/Friends Links:</h2>
 		<div class="CWSLinkBox">
 		<ul>
-			<li><a href="https://www.linkedin.com/in/tim-pasquel-95363b259/"</a>LinkedIn</li>
-			<li><a href="https://github.com/TimPasquel"</a>Github</li>
-			<li><a href="https://www.instagram.com/capture_white_smoke/"</a>Instagram (@capture_white_smoke)</li>
+			<li><a href="https://www.linkedin.com/in/tim-pasquel-95363b259/">LinkedIn</a></li>
+			<li><a href="https://github.com/TimPasquel">Github</a></li>
+			<li><a href="https://www.instagram.com/capture_white_smoke/">Instagram (@capture_white_smoke)</a></li>
 		</ul>
 		</div>
 
 		<div class="CWSLinkBox">
 		<ul>
-			<li><a href="https://www.aidanlapenta.com"</a>Aidan LaPenta</li>
-			<li><a href="http://karenpasquel.weebly.com/"</a>Karen Pasquel</li>
+			<li><a href="https://www.aidanlapenta.com">Aidan LaPenta</a></li>
+			<li><a href="http://karenpasquel.weebly.com/">Karen Pasquel</a></li>
+			<li><a href="http://faculty.kutztown.edu/schwesin/">Dr. Schwesinger</a></li>
+			<li><a href="http://faculty.kutztown.edu/spiegel/">Dr. Spiegel</a></li>
+			<li><a href="http://faculty.kutztown.edu/shim/">Dr. Shim</a></li>
+			<li><a href="http://faculty.kutztown.edu/parson/">Dr. Parson</a></li>
 		</ul>
 		</div>
 

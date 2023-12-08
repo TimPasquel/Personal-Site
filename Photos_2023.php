@@ -18,6 +18,8 @@
 
 	<?php include 'CWSPhotosNav.html' ?>
 
+	<p>You can view the Images in full by clicking on the desired Image"</p>
+
 	<?php
 		$dirname = "images/CWSPhotos/";
 		$images = glob($dirname."*.jpg");
@@ -28,16 +30,16 @@
 			echo '<tr>';
 			echo '<td>';
 			echo '<div class="CWSPhotoSmallImage">';
-   		echo '<img src="'.$image.'">';
+			echo '<a href ="'.$image.'">';
+			echo '<img src="'.$image.'">';
+			echo '</a>';
 			echo '</div>';
 			echo '</td>';
-			echo '</tr>'	;
+			echo '</tr>';
 		}
 		echo '</table>';
 		echo '</div>';
 	?>
-	
-	<p>Place where a photo directory will be placed</p>
 	
 	<div class="BackToTop">
 		<form>

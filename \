@@ -85,21 +85,21 @@
 }
 
 .CWSnav a:hover {
-   background-color:white;
-   color:black;
+	background-color:white;
+	color:black;
 }
 
 /* CWS Options */
 
 .CWSOptions ul {
-   text-align: center;
-   list-style-type:none;
+	text-align: center;
+	list-style-type:none;
 }
 
 /* CWS About Box */
 
 .CWSAboutBox {
-   margin-left: auto;
+	margin-left: auto;
    margin-right: auto;
    display: table;
 }
@@ -118,13 +118,13 @@
 }
 
 .CWSAboutBox a {
-   color:white;
+	color:white;
 }
 
 /* CWS Independent Lists (No Background) */
 
 .CWSIndependentLists {
-   margin-left: auto;
+	margin-left: auto;
    margin-right: auto;
    display: table;
 }
@@ -140,10 +140,6 @@
 	padding-left:40px;
 	background-color:black;
 	color:white;
-}
-
-.CWSIndependentLists a {
-   color:white;
 }
 
 /* CWS Pricing Lists */
@@ -186,7 +182,7 @@
 /* Hyperlink Box */
 
 .CWSLinkBox {
-   margin-left: auto;
+	margin-left: auto;
    margin-right: auto;
 }
 
@@ -265,12 +261,11 @@ body {
 .PrintsTable table {
    border-radius: 25px;
    background-color:black;
-   margin-left: 5%;
-   margin-right: 5%;
 }
 
 .PrintsTable tr {
    border-radius: 25px;
+   width:500px;
 }
 
 .PrintsTable td {
@@ -302,29 +297,25 @@ body {
 .CWSPhotoSmallImage img {
    margin-left: auto;
    margin-right: auto;
-   border-radius: 25px;
-   height:360px;
-   width:640px;
-}
-
-.CWSPhotoSmallImage img:hover {
-   border: 2px solid white;
+	border-radius: 25px;
+	height:360px;
+	width:640px;
 }
 
 /* Index Table properties */
 
 .IndexTable table {
-    margin-left: auto;
-    margin-right: auto;
-    border: none;
+ 	margin-left: auto;
+  	margin-right: auto;
+	border: none;
 }
 
 .IndexTable td {
-   text-align:center;
-   vertical-align:top;
-   width:250px;
-   height:500px;
-   border: none;
+	text-align:center;
+	vertical-align:top;
+	width:250px;
+	height:500px;
+	border: none;
 }
 
 /*		Old Index Table, Character selection style
@@ -347,8 +338,8 @@ body {
 }
 
 .IndexTable td:hover {
-   background-color:white;
-   color:white;
+	background-color:white;
+	color:white;
 }
 
 */
@@ -363,25 +354,7 @@ body {
    border: none;
 }
 
-.CWSTable tr:nth-child(even) {
-   background-color: black;
-   color:white;
-   border: 2px black;
-   border-radius: 25px;
-}
-
 /* TimTable Table properties */
-
-.TimTable table {
-   margin-left: auto;
-   margin-right: auto;
-   display: inline-block;
-}
-
-.TimTable tr {
-   margin-left: auto;
-   margin-right: auto;
-}
 
 .TimTable td{
    text-align: center;
@@ -389,7 +362,6 @@ body {
    width:25%;
    background-color: black;
    color:white;
-   border-radius: 25px;
 }
 
 /* TimEXP Table properties */
@@ -397,9 +369,9 @@ body {
 .TimEXP table {
    margin-left: 15%;
    margin-right: 15%;
-   border: 2px solid black;
+   border: none;
+   background-color: none;
    border-radius: 25px;
-   background-color: black;
 }
 
 .TimEXP td{
@@ -407,22 +379,15 @@ body {
    padding: 0.5rem;
    width:25%;
    color:white;
-   background-color: none;
-   border:none;
+   border: none;
+   background-color: black;
 }
 
-/*
 .TimEXP tr:nth-child(even) {
    background-color: lightgrey;
    border: 2px solid;
    border-radius: 25px;
 }
-*/
-
-.TimEXP a {
-   color:white;
-}
-
 
 /* TimLists table properties */
 
@@ -437,7 +402,7 @@ body {
    text-align:left;
    display:inline-block;
    list-style-type: default;
-   padding-left:10px;
+   padding-left:40px;
    background-color:black;
    color:white;
 }
@@ -454,16 +419,11 @@ tbody, td {
    width:25%;
 }
 
-/*
-
 tr:nth-child(even) {
    background-color: black;
    color:white;
-   border: 2px black;
    border-radius: 25px;
 }
-
-*/
 
 .CWSVideoTitle {
    background-color: black;
@@ -475,7 +435,7 @@ tr:nth-child(even) {
 /* Images and Video */
 
 .iframe-container {
-   display: flex;
+	display: flex;
    justify-content: center;
 }
 .centerimages {
@@ -483,12 +443,12 @@ tr:nth-child(even) {
    margin-left: auto;
    margin-right: auto;
    width: 50%;
-   border-radius: 25px;
+	border-radius: 25px;
 }
 
 /* Web Page Alignment */
 
 .bottom-three {
    margin-bottom: 2cm;
-   background-color:black;
+	background-color:black;
 }
