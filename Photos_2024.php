@@ -21,7 +21,7 @@
 	<p>You can view the Images in full by clicking on the desired Image</p>
 
 	<?php
-		$dirname = "images/CWSPhotos/";
+		#$dirname = "images/CWSPhotos/";
 		$images = glob($dirname."*.jpg");
 
 		echo '<div class="CWSPhotoTable">';
@@ -48,13 +48,3 @@
 	</div>
 
    <div class="CWSVideoTitle">	<h2>Youtube and Instagram Links:</h2> </div>
-
-	<div class="CWSLinkBox">
-	<ul>
-		<li><a href="https://www.instagram.com/capture_white_smoke/"</a>Instagram (@capture_white_smoke)</li>
-		<li><a href="https://www.youtube.com/channel/UCa_SyInhAFLrDdE9AIFghmg"</a>Youtube (Capture White Smoke)</li>
-	</ul>
-	</div>
-
-</body>
-</html>

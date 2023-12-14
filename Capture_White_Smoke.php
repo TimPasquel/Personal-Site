@@ -15,7 +15,7 @@
 		<div class="CWSOptions">
 		<ul>
 			<li>Hello! Photographer who specializes in automotive culture, but love all subjects.</li>
-			<li>Feel free to DM for inquires, questions, bookings, or image copies!</li>
+			<li>Feel free to email me, using the link below, for inquires, questions, bookings, or image copies!</li>
 		</ul>
 		</div>
 
