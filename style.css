@@ -176,7 +176,6 @@
 	color: white;
 	padding: 15px 32px;
 	text-align: center;
-	border-radius: 25px;
 }
 
 .BackToTop input:hover {
@@ -278,6 +277,7 @@ body {
    border-radius: 25px;
    vertical-align:center;
    border-color: black;
+   border-radius: 25px;
 }
 
 /* CWSPhotoTable Table properties */
@@ -370,106 +370,24 @@ body {
    border-radius: 25px;
 }
 
-/* TimBooks properties */
-
-.TimBooks {
-   margin-left: 20%;
-   margin-right: 20%;
-   display: table;
-}
-
-.TimBooks p {
-   text-align:left;
-}
-
-.TimBooks h2 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-   background: black;
-   color: white;
-}
-
-.TimBooks h1 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-}
-
-.TimBooks ul {
-   list-style: default;
-}
-
-/*
-.TimBooks ul {
-   text-align:left;
-   display:inline-block;
-   list-style-type: none;
-   border: 2px solid black;
-   border-radius: 25px;
-   padding:20px;
-   background-color:black;
-   color:white;
-   margin:5px;
-}
-
-*/
-
-.TimBooks a {
-   color:black;
-}
-
-/* TimlogEntry properties */
-
-.TimLogEntry {
-   margin-left: auto;
-   margin-right: auto;
-   display: table;
-}
-
-.TimLogEntry p {
-   margin-left:20%;
-   margin-right:20%;
-   text-align:left;
-}
-
-.TimLogEntry h1 {
-   font-family: "Monaco", "Monospace";
-   margin-left:20%;
-   margin-right:20%;
-   margin-bottom: 1%;
-}
-
-.TimLogEntry ul {
-   list-style: none;
-}
-
-/*
-.TimLogEntry ul {
-   text-align:left;
-   display:inline-block;
-   list-style-type: none;
-   border: 2px solid black;
-   border-radius: 25px;
-   padding:20px;
-   background-color:black;
-   color:white;
-   margin:5px;
-}
-
-*/
-
-.TimLogEntry a {
-   color:black;
-}
-
 /* TimTable Table properties */
 
 .TimTable table {
    margin-left: auto;
    margin-right: auto;
+   display: inline-block;
 }
 
-.TimTable td {
-   background-color:black;
+.TimTable tr {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.TimTable td{
+   text-align: center;
+   padding: 0.5rem;
+   width:25%;
+   background-color: black;
    color:white;
    border-radius: 25px;
 }
@@ -517,7 +435,9 @@ body {
 
 .TimLists ul {
    text-align:left;
+   display:inline-block;
    list-style-type: default;
+   padding-left:10px;
    background-color:black;
    color:white;
 }
