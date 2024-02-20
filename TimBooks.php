@@ -17,8 +17,7 @@
 
       <br />
 
-      <p>I did not write any of these books (obviously), but these are just books that I though people should read</p> 
-      <p>as reading is important. Some people call this a book list</p>   
+      <p>This is my book list because reading is kool</p> 
 
       <br />
 
@@ -27,20 +26,28 @@
 <h2 id="philosophy"><strong>Philosophy</strong></h2>
 <ul>
 <li><p><em>The Analects</em> - Confucius</p></li>
+<li><p><em>The Art of War</em> - Sun Tzu</p></li>
 <li><p><em>Meditations</em> - Marcus Aurelius</p></li>
 </ul>
 <h2 id="science-fiction"><strong>Science Fiction</strong></h2>
 <ul>
+<li><p><em>Chernobyl</em> - Frederik Pohl</p></li>
 <li><p><em>Frankenstein</em> - Mary Shelley</p></li>
+<li><p><em>Fever 1793</em> - Anderson</p></li>
 <li><p><em>Metro 2033</em> - Dmitry Glukhovsky</p></li>
 <li><p><em>Metro 2034</em> - Dmitry Glukhovsky</p></li>
 <li><p><em>Metro 2035</em> - Dmitry Glukhovsky</p></li>
 <li><p><em>Roadside Picnic</em> - Boris Strugatsky</p></li>
 <li><p><em>Slaughterhouse Five</em> - Kurt Vonnegut</p></li>
+<li><p><em>Star Wars Republic Commando Triple Zero</em> - Karen Traviss</p></li>
+<li><p><em>Star Wars Republic Commando True Colors</em> - Karen Traviss</p></li>
+<li><p><em>Star Wars Phasma</em> - Delilah S. Dawson</p></li>
+<li><p><em>The Hitchhiker's Guide to the Galaxy</em> - Douglas Adams</p></li>
 </ul>
 <h2 id="fiction"><strong>Fiction</strong></h2>
 <ul>
 <li><p><em>1984</em> - George Orwell</p></li>
+<li><p><em>All Quiet on the Western Front</em> - Erich Maria Remarque</p></li>
 <li><p><em>Animal Farm</em> - George Orwell</p></li>
 <li><p><em>Fahrenheit 451</em> - Ray Bradbury</p></li>
 <li><p><em>Shawshank Redemption</em> - Stephen King</p></li>
@@ -48,6 +55,12 @@
 </ul>
 <h2 id="fantasy"><strong>Fantasy</strong></h2>
 <ul>
+<li><p><em>Another</em> - Yukito Ayatsuji, Hiro Kiyohara</p></li>
+<li><p><em>Assassins Creed Last Decendants</em> - Kirby</p></li>
+<li><p><em>Assassins Creed Last Decendants Tomb of the Khan</em> - Kirby</p></li>
+<li><p><em>Assassins Creed Underworld</em> - Oliver Bowden</p></li>
+<li><p><em>Chainsaw Man</em> - Tatsuki Fujimoto</p></li>
+<li><p><em>Demon Slayer</em> - Koyoharu Gotouge</p></li>
 <li><p><em>Monkey King</em> - Wu Cheng’en</p></li>
 <li><p><em>The Hobbit</em> - J.R.R Tolkien</p></li>
 <li><p><em>The Lord of the Rings</em> - J.R.R Tolkien</p></li>
@@ -56,9 +69,17 @@
 <h2 id="non-fictiontext-books"><strong>Non-Fiction/Text Books</strong></h2>
 <ul>
 <li><p><em>Computer Networking A Top-Down Approach</em> - James W. Kurose, Keith W. Ross</p></li>
+<li><p><em>Computer Science A</em> - Teukolsky</p></li>
 <li><p><em>Essentials of Sociology</em> - Jim M. Henslin</p></li>
+<li><p><em>Environmental Science</em> - Thorpe</p></li>
 <li><p><em>Introduction to Security</em> - Rober J. Fischer, Edward P. Halibozek</p></li>
+<li><p><em>Java in Easy Steps</em> - Mike McGrath</p></li>
+<li><p><em>Java Software Solutions</em> - Lewis, Loftus</p></li>
+<li><p><em>Linux Basics for Hackers</em> - Occupytheweb</p></li>
+<li><p><em>Prepared</em> - Mike Glover</p></li>
 <li><p><em>Principles of Information Security</em> - Micheal E. Whitman, Herbert J. Mattord</p></li>
+<li><p><em>The Days of the French Revolution</em> - Christopher Hibbert</p></li>
+<li><p><em>The Revolutionary War</em> - National Geographic</p></li>
 </ul>
 
 </div>

@@ -18,7 +18,7 @@
 
 	<?php include 'CWSPhotosNav.html' ?>
 
-	<p>You can view the Images in full by clicking on the desired Image</p>
+	<p>⚠️ View the Images in full by clicking on the desired Image ⚠️ </p>
 
 	<?php
 		#$dirname = "images/CWSPhotos/";

@@ -15,7 +15,7 @@
 		<div class="CWSOptions">
 		<ul>
 			<li>Hello! Photographer who specializes in automotive culture, but love all subjects.</li>
-			<li>Feel free to DM for inquires, questions, bookings, or image copies!</li>
+			<li>Feel free to email me, using the link below, for inquires, questions, bookings, or image copies!</li>
 		</ul>
 		</div>
 
@@ -35,65 +35,98 @@
 	<table>
 	<tr>
 	<td>
-	<h2>Photo Options:</h2>
-		<div class="CWSOptions">
-		<ul>
-			<li>What I have posted above and in the <a href="CWSPhotos.php">Photo Gallery</a> is an example of how I edit my photos.</li>
-			<li>However, I can change the styles based on the customers interests (example: warm, cool,</li>
-			<li>high contrast, black white, etc.) if needed. Furthermore, for the posts I make, I edit out the license plates</li>
-			<li>the photos I will send will have them included unless otherwise noted<li>
-		</ul>
+
+		<div class="CWSInfoBox">
+			<h2>Photo Options</h2>
+			<ul>
+				<p>The content shared above in the <a href="CWSPhotos.php">Photo Gallery</a> 
+				serves as a demonstration of my photo editing approach. While these styles show
+				my personal touch, I am flexible and can tailor the editing preferences to 
+				anything desired. Whether its warm, cool, high-contrast, black and white, or
+				any other style, I am committed to developing a final product that resonates
+				with anyones unique vision.</p>
+
+
+				<p>Additionally, I will note that the images I share, I will edit
+				out license plates unless specified otherwise. This ensures a respectful and 
+				privacy concious presentation in my posts. However, if they are prefered, I am
+				more than willing to accommodate those preferences. Feel free to reach out
+				for any further details</p>
+
+				<p> Email for more information: <a href="mailto:capture.white.smoke@gmail.com?subject=CWS Inquiry &body=Hello!">capture.white.smoke@gmail.com</a></p>
+			</ul>
+		
+
 		</div>
+
 	</td>
 
 	<td>
-	<h2>Video Options:</h2>
-		<div class="CWSOptions">
-		<ul>
-			<li>What I have posted in the <a href="CWSVideos.php">Video Gallery</a> is an example of how I edit my videos.</li>
-			<li>A project can also be set up and scheduled before an event to ensure proper footage is taken.</li>
-			<li>Individual projects outside of events can also be pitched to me via email</li>
-		</ul>
+		<div class="CWSInfoBox">
+			<h2>Video Options</h2>
+			<ul>
+				<p>The content showcased in the <a href="CWSVideos.php">Video Gallery</a> provides
+				a glimpse into my video editing techniques. I offer the option to plan and schedule
+				dedicated projects in advance to guarantee the capture of optimal footage during 
+				events. Feel free to reach out with your vision, and we can dicuss how to bring
+				your project to life.</p>
+
+				<p> Email for more information: <a href="mailto:capture.white.smoke@gmail.com?subject=CWS Inquiry &body=Hello!">capture.white.smoke@gmail.com</a></p>
+			</ul>
+		
+
 		</div>
 	</td>
 	</tr>
+
+	<!--
 
 	<tr>
 	<td>
-	<h2>Photo Pricing Options:</h2>
-		<div class="CWSLists">
-		<ul>
-			<li>$2 for 1 Edited Photo</li>
-			<li>$5 for 3 Edited Photos ($1.66 Per Photo)</li>
-			<li>$10 for 10 Edited Photos ($1.00 Per Photo)</li>
-			<li>$15 for 20 Edited Photos ($0.75 Per Photo) [Best Price]</li>
-			<li>If you gave or give me a ride along, negotiation on pricing can be made</li>
-		</ul>
+		<div class="CWSInfoBox">
+			<h2>Photo Pricing Options</h2>
+			<ul>
+				<li><p>$2 for 1 Edited Photo</p></li></p>
+				<li><p>$5 for 3 Edited Photos ($1.66 Per Photo)</p></li>
+				<li><p>$10 for 10 Edited Photos ($1.00 Per Photo)</p></li>
+				<li><p>$15 for 20 Edited Photos ($0.75 Per Photo) [Best Price]</p></li>
+				<li><p>If you gave or give me a ride along, negotiation on pricing can be made</p></li>
+			</ul>
+		
+
 		</div>
 	</td>
 
+
 	<td>
-	<h2>Video Pricing Options:</h2>
-		<div class="CWSLists">
-		<ul>
-			<li>$2 for 1 Raw Clip</li>
-			<li>$5 for 3 Raw Clips ($1.66 Per Clip)</li>
-			<li>$10 for 10 Raw Clips ($1.00 Per Clip)</li>
-			<li>$15 for a Personalized Edited Video (Under 1 Minute)</li>
-			<li>If you gave or give me a ride along, negotiation on pricing can be made</li>
-		</ul>
+	<div class="CWSInfoBox">
+			<h2>Video Pricing Options</h2>
+			<ul>
+				<li><p>$2 for 1 Raw Clip</p></li></p>
+				<li><p>$5 for 3 Raw Clips ($1.66 Per Clip)</p></li>
+				<li><p>$10 for 10 Raw Clips ($1.00 Per Clip)</p></li>
+				<li><p>$15 for a Personalized Edited Video (Under 1 Minute)</p></li>
+				<li><p>If you gave or give me a ride along, negotiation on pricing can be made</p></li>
+			</ul>
+		
+
 		</div>
 	</td>
 	</tr>
+	-->	
+
 	</table>
 	</div>
-
+		
 	<h2>Individual 3 x 3 in Prints:</h2>
 		<div class="CWSAboutBox">
 		<ul>
 			<li>I also make 3 x 3 in print outs of photos! Please email or DM me using the links below to contact me about them!</li>
 			<li>Email: <a href="mailto:capture.white.smoke@gmail.com?subject=CWS Inquiry &body=Hello!">capture.white.smoke@gmail.com</a></li>
 			<li>Instagram: <a href="https://www.instagram.com/capture_white_smoke/">@capture_white_smoke</a></li>
+
+			<!--
+
 			<li>Pricing Options: </li>
 			   <div class="CWSLists">
 			   <ul>
@@ -102,10 +135,16 @@
 			   </ul>
 			   </div>
 
-			<li>Prints will be sent through the United States Postal Service (USPS), delivery time will vary.<li>
-			<li>I am also open to preparing the desired prints before an event that you and I will be at<li>
+			-->
+
+			<br >
+
+			<li>Prints will be sent through the United States Postal Service (USPS)</li>
+			<li>so delivery time will vary. I am also open to preparing the desired</li> 
+			<li>prints before an event that you and I will be at :)<li>
 		</ul>
 		</div>
+	
 
 	<br />
 	<br />
@@ -114,13 +153,13 @@
 	   <table>
 	      <tr>
 	         <td>
-		     <img class='centerimages' border="5px" src="images/CWSPhotoAd/IMG_7395-1.jpg" alt="AD1" style='width:720px;height:480px;'>
+		     <a href="images/CWSPhotoAd/IMG_7395-1.jpg"><img class='centerimages' src="images/CWSPhotoAd/IMG_7395-1.jpg" alt="AD1" style='width:720px;height:480px;'></a>
 		 </td>
 	      </tr>
 
 	      <tr>
 		 <td>
-		     <img class='centerimages' border="5px black" src="images/CWSPhotoAd/IMG_7399-1.jpg" alt="AD2" style='width:720px;height:480px;'>
+		     <a href="images/CWSPhotoAd/IMG_7399-1.jpg"><img class='centerimages' src="images/CWSPhotoAd/IMG_7399-1.jpg" alt="AD2" style='width:720px;height:480px;'></a>
 		</td>
 	     </tr>
 	   </table>

@@ -38,11 +38,15 @@
 	<br /> <!--3 lines empty space -->
 	<br />
 
+	<!--
+
 	<div class="BackToTop">
 		<form>
  			<input type="BUTTON" value="Back To Top of Page" onclick="window.location.href='#top'">
 		</form>
 	</div>
+
+	-->
 
    <div class="CWSVideoTitle">	<h2>Youtube and Instagram Links:</h2> </div>
 

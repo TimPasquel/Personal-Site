@@ -20,7 +20,7 @@
 
       <div class="TimLogEntry">
 
-<h1 id="general">General</h1>
+<h2 id="general">General</h2>
 <ul>
 <li><p><strong>Operating System</strong></p>
 <p>I use a debian version of Linux called <a href="https://www.linuxmint.com/">Mint Linux</a>. Mint Linux is a free operating system that has a fairly user friendly interface that gives off a similar vibe to Windows, but with more user control (which is a good thing). Its a light operating system that uses less system resources than pretty much any <span class="underline">paid</span> software in todays day and age. In conclusion, I highly recommend any intelligent computer user to switch to it as you will finally be released from the chains of todays terrible operating systems.</p></li>
@@ -36,7 +36,7 @@
 <p>I use <a href="https://www.signal.org/">Signal</a> for my messaging service as it has full end to end encryption between devices. Especially now, I would rather that people do not have access to my data while it is being transmitted. There is also a note to self feature that is encypted that syncs between devices that are connected to your number. Furthermore, it is able to send larger files compared to something like SMS.</p></li>
 </ul>
       <br />
-<h1 id="hardware">Hardware</h1>
+<h2 id="hardware">Hardware</h2>
 <ul>
 <li><p><strong>Laptop</strong></p>
 <p>I use an HP laptop as they are usually light, reasonably made and priced. However, I think I will be getting a business grade Lenovo Thinkpad in the near future as they are purely utilitarian instead of appealing to “the crowd”. Anyway, my current specs are an AMD Ryzen 5 55ooU with Radeon Graphics.</p></li>

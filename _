@@ -85,21 +85,21 @@
 }
 
 .CWSnav a:hover {
-   background-color:white;
-   color:black;
+	background-color:white;
+	color:black;
 }
 
 /* CWS Options */
 
 .CWSOptions ul {
-   text-align: center;
-   list-style-type:none;
+	text-align: center;
+	list-style-type:none;
 }
 
 /* CWS About Box */
 
 .CWSAboutBox {
-   margin-left: auto;
+	margin-left: auto;
    margin-right: auto;
    display: table;
 }
@@ -108,6 +108,7 @@
 	text-align:center;
 	display:inline-block;
 	list-style-type: none;
+	width:90%;
 	border: 2px solid black;
 	border-radius: 25px;
 	padding:20px;
@@ -117,48 +118,13 @@
 }
 
 .CWSAboutBox a {
-   color:white;
+	color:white;
 }
-
-/* CWSInfoBox */
-
-.CWSInfoBox {
-   margin-left: 10%;
-   margin-right: 10%;
-   display: table;
-}
-
-.CWSInfoBox p {
-   text-align:left;
-}
-
-.CWSInfoBox h2 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-   background: black;
-   color: white;
-}
-
-.CWSInfoBox h1 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-}
-
-.CWSInfoBox ul {
-   list-style: default;
-}
-
-.CWSInfoBox a {
-   color:black;
-}
-
-
-
 
 /* CWS Independent Lists (No Background) */
 
 .CWSIndependentLists {
-   margin-left: auto;
+	margin-left: auto;
    margin-right: auto;
    display: table;
 }
@@ -174,10 +140,6 @@
 	padding-left:40px;
 	background-color:black;
 	color:white;
-}
-
-.CWSIndependentLists a {
-   color:white;
 }
 
 /* CWS Pricing Lists */
@@ -210,7 +172,6 @@
 	color: white;
 	padding: 15px 32px;
 	text-align: center;
-	border-radius: 25px;
 }
 
 .BackToTop input:hover {
@@ -221,7 +182,7 @@
 /* Hyperlink Box */
 
 .CWSLinkBox {
-   margin-left: auto;
+	margin-left: auto;
    margin-right: auto;
 }
 
@@ -300,18 +261,18 @@ body {
 .PrintsTable table {
    border-radius: 25px;
    background-color:black;
-   margin-left: 5%;
-   margin-right: 5%;
 }
 
 .PrintsTable tr {
    border-radius: 25px;
+   width:500px;
 }
 
 .PrintsTable td {
    border-radius: 25px;
    vertical-align:center;
    border-color: black;
+   border-radius: 25px;
 }
 
 /* CWSPhotoTable Table properties */
@@ -336,29 +297,25 @@ body {
 .CWSPhotoSmallImage img {
    margin-left: auto;
    margin-right: auto;
-   border-radius: 25px;
-   height:360px;
-   width:640px;
-}
-
-.CWSPhotoSmallImage img:hover {
-   border: 2px solid white;
+	border-radius: 25px;
+	height:360px;
+	width:640px;
 }
 
 /* Index Table properties */
 
 .IndexTable table {
-    margin-left: auto;
-    margin-right: auto;
-    border: none;
+ 	margin-left: auto;
+  	margin-right: auto;
+	border: none;
 }
 
 .IndexTable td {
-   text-align:center;
-   vertical-align:top;
-   width:250px;
-   height:500px;
-   border: none;
+	text-align:center;
+	vertical-align:top;
+	width:250px;
+	height:500px;
+	border: none;
 }
 
 /*		Old Index Table, Character selection style
@@ -381,8 +338,8 @@ body {
 }
 
 .IndexTable td:hover {
-   background-color:white;
-   color:white;
+	background-color:white;
+	color:white;
 }
 
 */
@@ -397,126 +354,14 @@ body {
    border: none;
 }
 
-/*
-
-.CWSTable tr:nth-child(even) {
-   background-color: black;
-   color:white;
-   border: 2px black;
-   border-radius: 25px;
-}
-
-*/
-
-/* TimBooks properties */
-
-.TimBooks {
-   margin-left: 20%;
-   margin-right: 20%;
-   display: table;
-}
-
-.TimBooks p {
-   text-align:left;
-}
-
-.TimBooks h2 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-   background: black;
-   color: white;
-}
-
-.TimBooks h1 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-}
-
-.TimBooks ul {
-   list-style: default;
-}
-
-/*
-.TimBooks ul {
-   text-align:left;
-   display:inline-block;
-   list-style-type: none;
-   border: 2px solid black;
-   border-radius: 25px;
-   padding:20px;
-   background-color:black;
-   color:white;
-   margin:5px;
-}
-
-*/
-
-.TimBooks a {
-   color:black;
-}
-
-/* TimlogEntry properties */
-
-.TimLogEntry {
-   margin-left: 20%;
-   margin-right: 20%;
-   display: table;
-}
-
-.TimLogEntry p {
-   /* margin-left:20%;
-   margin-right:20%; */
-   text-align:left;
-}
-
-.TimLogEntry h1 {
-   font-family: "Monaco", "Monospace";
-   margin-left:20%;
-   margin-right:20%;
-   margin-bottom: 1%;
-}
-
-.TimLogEntry h2 {
-   font-family: "Monaco", "Monospace";
-   margin-bottom: 1%;
-   background: black;
-   color: white;
-}
-
-.TimLogEntry ul {
-   list-style: none;
-}
-
-/*
-.TimLogEntry ul {
-   text-align:left;
-   display:inline-block;
-   list-style-type: none;
-   border: 2px solid black;
-   border-radius: 25px;
-   padding:20px;
-   background-color:black;
-   color:white;
-   margin:5px;
-}
-
-*/
-
-.TimLogEntry a {
-   color:black;
-}
-
 /* TimTable Table properties */
 
-.TimTable table {
-   margin-left: auto;
-   margin-right: auto;
-}
-
-.TimTable td {
-   background-color:black;
+.TimTable td{
+   text-align: center;
+   padding: 0.5rem;
+   width:25%;
+   background-color: black;
    color:white;
-   border-radius: 25px;
 }
 
 /* TimEXP Table properties */
@@ -524,9 +369,9 @@ body {
 .TimEXP table {
    margin-left: 15%;
    margin-right: 15%;
-   border: 2px solid black;
+   border: none;
+   background-color: none;
    border-radius: 25px;
-   background-color: black;
 }
 
 .TimEXP td{
@@ -534,22 +379,15 @@ body {
    padding: 0.5rem;
    width:25%;
    color:white;
-   background-color: none;
-   border:none;
+   border: none;
+   background-color: black;
 }
 
-/*
 .TimEXP tr:nth-child(even) {
    background-color: lightgrey;
    border: 2px solid;
    border-radius: 25px;
 }
-*/
-
-.TimEXP a {
-   color:white;
-}
-
 
 /* TimLists table properties */
 
@@ -562,7 +400,9 @@ body {
 
 .TimLists ul {
    text-align:left;
+   display:inline-block;
    list-style-type: default;
+   padding-left:40px;
    background-color:black;
    color:white;
 }
@@ -579,16 +419,11 @@ tbody, td {
    width:25%;
 }
 
-/*
-
 tr:nth-child(even) {
    background-color: black;
    color:white;
-   border: 2px black;
    border-radius: 25px;
 }
-
-*/
 
 .CWSVideoTitle {
    background-color: black;
@@ -600,7 +435,7 @@ tr:nth-child(even) {
 /* Images and Video */
 
 .iframe-container {
-   display: flex;
+	display: flex;
    justify-content: center;
 }
 .centerimages {
@@ -608,12 +443,12 @@ tr:nth-child(even) {
    margin-left: auto;
    margin-right: auto;
    width: 50%;
-   border-radius: 25px;
+	border-radius: 25px;
 }
 
 /* Web Page Alignment */
 
 .bottom-three {
    margin-bottom: 2cm;
-   background-color:black;
+	background-color:black;
 }

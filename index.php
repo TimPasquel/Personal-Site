@@ -24,6 +24,15 @@
 	</table>
 	</div>
 
+<div class="CWSnav">
+	<nav>
+		<ul>
+			<li><a href="Tim_Pasquel.php">Tim Pasquel</a></li>
+			<li><a href="Capture_White_Smoke.php">Capture White Smoke</a></li>
+		</ul>
+	</nav>
+</div>
+
 	<!--
 
 	maybe add this later, cool character selection type menu
@@ -39,6 +48,6 @@
 	--!>
 
 	<p>Please use the image buttons above to reach either my personal site or my professional photography site</p>
-	<p>Site Last Updated: Nov 2023</p>
+	<p>Site Last Updated: Jan 2024</p>
 </body>
 </html>
